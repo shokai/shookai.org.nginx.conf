@@ -1,9 +1,10 @@
 nginx.conf for shookai.org 
 ==========================
 
-install nginx 1.3.14
+install nginx 1.4.7
 
-    % brew install nginx --devel
+    % brew tap marcqualie/nginx
+    % brew install nginx-full
 
 config
 
