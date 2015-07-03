@@ -1,7 +1,7 @@
-nginx.conf for shookai.org 
+nginx.conf for shookai.org
 ==========================
 
-install nginx 1.4.7
+install nginx 1.8.0
 
     % brew tap marcqualie/nginx
     % brew install nginx-full
